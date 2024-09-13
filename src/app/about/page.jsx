@@ -45,7 +45,7 @@ const AboutPage = () => {
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-            "The best way to predict the future is to create it." – Peter Drucker
+            The best way to predict the future is to create it. – Peter Drucker
             </span>
             {/* BIOGRAPHY SCROLL SVG */}
             <motion.svg
